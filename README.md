@@ -5,7 +5,7 @@ This is my personal portfolio website. This project's purpose was to create a cl
 ## Setup
 Clone this repository \
 npm install for dependencies \
-run index.html using Live Server Extension \
+run index.html using Live Server Extension
 
 ## Built With
 - HTML
@@ -15,8 +15,8 @@ run index.html using Live Server Extension \
 - Media queries for responsiveness
 
 ## Future Updates
-[] Background Animations
-[] Updates Images
+[]Background Animations
+[]Updates Images
 
 ## Author
 Khalil Auguste
