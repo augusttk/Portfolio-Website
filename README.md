@@ -1,9 +1,26 @@
-# Responsive Portfolio Complete
-## [Watch it on youtube](https://youtu.be/owEHlDn0JYQ)
-### Responsive Portfolio Complete
-Learn how to develop a clean and nice web portfolio, fully mobile first and responsive, for a designer or developer. Includes a side menu bar. At the beginning, your name, links to social networks and an image. Then the About section shows more information about you. Y Contains a list of skills offered.
+# Portfolio Website
+##Project Description
+This is my personal portfolio website. This project's purpose was to create a clean porfoliowebsite using many web based technologies. This music player was made through a course from [Bedimcode](https://www.youtube.com/c/Bedimcode/featured)and then modified to fit my aesthetic.
 
-It also has a part where you show your education studies with a timeline. Then a section where he offers his services and a section on Recent Jobs. And at the bottom you have a contact form, and at the bottom a footer.
+## Setup
+Clone this repository
+npm install for dependencies
+run index.html using Live Server Extension
 
-Don't forget to join the channel for more videos like this.
-[Bedimcode](https://www.youtube.com/c/Bedimcode)
+## Built With
+-HTML
+-CSS
+-Javascript
+-Php
+-Media queries for responsiveness
+
+## Future Updates
+[] Background Animations
+[] Updates Images
+
+## Author
+Khalil Auguste
+
+[Profile](https://github.com/augusttk)
+[Email](mailto:khalilauguste@gmail.com)
+Thank you for checking out this project!
