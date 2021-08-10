@@ -15,8 +15,8 @@ run index.html using Live Server Extension
 - Media queries for responsiveness
 
 ## Future Updates
-[]Background Animations
-[]Updates Images
+[] Background Animations \
+[] Updates Images
 
 ## Author
 Khalil Auguste
