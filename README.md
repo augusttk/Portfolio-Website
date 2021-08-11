@@ -8,8 +8,8 @@ This is my personal portfolio website. This project's purpose was to create a cl
 ## Setup
 ```
 Clone this repository
-Install **Live Server** Extension
-run **index.html** using Live Server Extension
+Install Live Server Extension
+run index.html using Live Server Extension
 ```
 
 ## Built With
