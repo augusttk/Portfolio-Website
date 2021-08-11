@@ -42,3 +42,10 @@ function scrollActive() {
     }
   })
 }
+
+
+/*===== Is Form Operational ==== */
+
+function operational() {
+  alert("Sorry, currently the form does not take submissions!");
+}
