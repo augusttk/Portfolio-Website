@@ -1,5 +1,5 @@
 # Portfolio Website
-![Website GIF](assets\img\gif.gif)\
+![Website GIF](assets\img\gif.gif)
 Visit my website [here](https://khalilauguste.me/)!
 
 ## Project Description
@@ -20,8 +20,11 @@ run **index.html** using Live Server Extension
 * Media queries for responsiveness
 
 ## Future Updates
-- [ ] Background Animations
+- [ ] Add entry welcome screen
+- [ ] Background animations
+- [ ] Working Contact Me form
 - [ ] Updates Images
+- [ ] Add new future projects
 
 ## Author
 Khalil Auguste
