@@ -1,5 +1,5 @@
 # Portfolio Website
-![Website GIF](assets\img\gif.gif)
+![Website GIF](gif.gif)\
 Visit my website [here](https://khalilauguste.me/)!
 
 ## Project Description
